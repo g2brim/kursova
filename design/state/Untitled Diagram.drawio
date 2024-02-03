@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T18:44:29.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" version="23.1.1" etag="pt47pBmvLdJnIJAi0OkG" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T18:46:16.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="og1VR9uUX5X6cpoL57rQ" version="23.1.1" type="github">
   <diagram name="Page-1" id="oEtw2ipKZqIlnSSQdHQF">
-    <mxGraphModel>
+    <mxGraphModel dx="1393" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aTSPjPNb6DGtsWg6ISvW-1" value="Disconnected&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTSPjPNb6DGtsWg6ISvW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTSPjPNb6DGtsWg6ISvW-2" target="aTSPjPNb6DGtsWg6ISvW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTSPjPNb6DGtsWg6ISvW-2" value="Connected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTSPjPNb6DGtsWg6ISvW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTSPjPNb6DGtsWg6ISvW-3" target="aTSPjPNb6DGtsWg6ISvW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTSPjPNb6DGtsWg6ISvW-3" value="Control Car" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTSPjPNb6DGtsWg6ISvW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTSPjPNb6DGtsWg6ISvW-4" target="aTSPjPNb6DGtsWg6ISvW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTSPjPNb6DGtsWg6ISvW-4" value="Take photo/video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTSPjPNb6DGtsWg6ISvW-5" value="Upload photo/video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
